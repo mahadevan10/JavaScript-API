@@ -12,7 +12,7 @@ It uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch real-
 - Responsive design with dropdowns for easy currency selection
 
 ---
-![App Screenshot](./Screenshot-2025-09-03-160242.png)
+![App Screenshot](./Screenshot 2025-09-03 160242.png)
 ---
 
 ## 🛠️ Technologies Used
