@@ -14,7 +14,7 @@ for (let currency_code in currencies) {
 }
 
 function convertCurrency() {
-    const API_KEY = "e67cf51dfa1da04cab6724ef"; // Load from .env securely in production
+    const API_KEY = "YOUR_API_KEY"; 
     const fromCurrency = fromSelect.value;
     const toCurrency = toSelect.value;
     const amount = document.getElementById('amount').value || 1;
